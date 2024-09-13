@@ -25,6 +25,9 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(calculator.divide(1, 1), 1)     # 1 / 1 = 1
         self.assertEqual(calculator.divide(0, 1), 0)     # 0 / 1 = 0
     
+    def test_zero_division(self):
+        calculator = Calculator()
+        self.assertEqual(calculator.divide(0, 1), 0)   
 
 if __name__ == '__main__':
     unittest.main()
