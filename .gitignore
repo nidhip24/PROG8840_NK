@@ -1,3 +1,5 @@
 venv/
 .pytest_cache
 lab01/__pycache__
+lab01/assignment/__pycache__/game_manager.cpython-39.pyc
+lab01/assignment/__pycache__/player.cpython-39.pyc
