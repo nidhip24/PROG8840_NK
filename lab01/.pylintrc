@@ -1,0 +1,6 @@
+; [format]
+; indent-string='    '
+; single-line-if-stmt=no
+
+; [MESSAGES CONTROL]
+; disable=invalid-name

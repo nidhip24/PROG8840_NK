@@ -1,3 +1,7 @@
 venv/
 .pytest_cache
 lab01/__pycache__
+mocks/__pycache__/blog.cpython-39.pyc
+mocks/__pycache__/main.cpython-39.pyc
+mocks/__pycache__/test_blog.cpython-39-pytest-8.3.3.pyc
+mocks/__pycache__/test.cpython-39-pytest-8.3.3.pyc
